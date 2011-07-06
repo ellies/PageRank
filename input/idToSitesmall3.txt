@@ -1,0 +1,7 @@
+1	sts3://site1/siteid={1}
+2	http://2/asdf/
+3	sts3://site1/siteid={3}
+4	sts4://site1/siteid={4}
+5	sts2://5/hhhjjj/kkklll/
+6	sts4://site1/siteid={6}
+7	sts3://site1/siteid={7}

@@ -1,0 +1,42 @@
+1. Building a site graph...
+ Creating nodes...
+	Total #lines in \\back\scratch\elshin\SRNK\files\sample_testfiles\input\idToUrlsmall.txt = 3
+Done creating all the nodes. There are 3 nodes!
+ Creating edges...
+	Total #lines in file \\back\scratch\elshin\SRNK\files\sample_testfiles\input\edgessmall.txt = 4
+	Adding dead-end nodes to a list...there are 0 deadends!
+2. Computing site rank...
+	There are total 3 nodes
+	Initial rank = 0.333333333333333
+
+########### SUMMARY ##############
+Top 3 site ranks:
+PR[3] = 0.397400044142156
+	#Docs for site = 1
+	#Incoming site edges = 2
+	#Outgoing site edges = 1
+	#Incoming doc edges = 2
+	#Incoming doc edges (totalINdocs) = 2
+	#Outgoing doc edges = 1
+PR[1] = 0.387789442707259
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 2
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 2
+PR[2] = 0.214810513150585
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 1
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 1
+Total #Iterations = 25
+Total #Nodes = 3
+Total #Deadends = 0
+Total #Site Edges = 4
+Total #Doc Edges = 4
+Sum of site ranks = 1
+3. Writing site rank results...
+End of program. Press any key to exit

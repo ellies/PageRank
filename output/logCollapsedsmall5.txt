@@ -1,0 +1,70 @@
+1. Building a site graph...
+ Creating nodes...
+	Total #lines in \\back\scratch\elshin\SRNK\files\sample_testfiles\input\idToUrlsmall5.txt = 15
+Done creating all the nodes. There are 7 nodes!
+ Creating edges...
+	Total #lines in file \\back\scratch\elshin\SRNK\files\sample_testfiles\input\edgessmall5.txt = 15
+	Adding dead-end nodes to a list...there are 2 deadends!
+2. Computing site rank...
+	There are total 7 nodes
+	Initial rank = 0.142857142857143
+
+########### SUMMARY ##############
+Top 7 site ranks:
+PR[1] = 0.284671532846712
+	#Docs for site = 4
+	#Incoming site edges = 3
+	#Outgoing site edges = 3
+	#Incoming doc edges = 5
+	#Incoming doc edges (totalINdocs) = 5
+	#Outgoing doc edges = 3
+PR[4] = 0.199769351917334
+	#Docs for site = 3
+	#Incoming site edges = 2
+	#Outgoing site edges = 2
+	#Incoming doc edges = 4
+	#Incoming doc edges (totalINdocs) = 4
+	#Outgoing doc edges = 3
+PR[sts25] = 0.126716570918946
+	#Docs for site = 2
+	#Incoming site edges = 1
+	#Outgoing site edges = 2
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 2
+PR[3] = 0.122471324296146
+	#Docs for site = 3
+	#Incoming site edges = 1
+	#Outgoing site edges = 1
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 3
+PR[2] = 0.122471324296146
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 1
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 2
+PR[7] = 0.107274152668214
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 0
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 0
+PR[6] = 0.0366257430565029
+	#Docs for site = 1
+	#Incoming site edges = 0
+	#Outgoing site edges = 0
+	#Incoming doc edges = 0
+	#Incoming doc edges (totalINdocs) = 0
+	#Outgoing doc edges = 0
+Total #Iterations = 16
+Total #Nodes = 7
+Total #Deadends = 2
+Total #Site Edges = 9
+Total #Doc Edges = 13
+Sum of site ranks = 1
+3. Writing site rank results...
+End of program. Press any key to exit

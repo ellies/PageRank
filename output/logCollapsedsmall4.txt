@@ -1,0 +1,91 @@
+1. Building a site graph...
+ Creating nodes...
+	Total #lines in \\back\scratch\elshin\SRNK\files\sample_testfiles\input\idToUrlsmall4.txt = 10
+Done creating all the nodes. There are 10 nodes!
+ Creating edges...
+	Total #lines in file \\back\scratch\elshin\SRNK\files\sample_testfiles\input\edgessmall4.txt = 21
+	Adding dead-end nodes to a list...there are 3 deadends!
+2. Computing site rank...
+	There are total 10 nodes
+	Initial rank = 0.1
+
+########### SUMMARY ##############
+Top 10 site ranks:
+PR[1] = 0.182093238416176
+	#Docs for site = 1
+	#Incoming site edges = 4
+	#Outgoing site edges = 6
+	#Incoming doc edges = 4
+	#Incoming doc edges (totalINdocs) = 4
+	#Outgoing doc edges = 6
+PR[sts25] = 0.164599393733498
+	#Docs for site = 1
+	#Incoming site edges = 4
+	#Outgoing site edges = 4
+	#Incoming doc edges = 4
+	#Incoming doc edges (totalINdocs) = 4
+	#Outgoing doc edges = 4
+PR[3] = 0.120526939510825
+	#Docs for site = 1
+	#Incoming site edges = 3
+	#Outgoing site edges = 3
+	#Incoming doc edges = 3
+	#Incoming doc edges (totalINdocs) = 3
+	#Outgoing doc edges = 3
+PR[2] = 0.119698720912007
+	#Docs for site = 1
+	#Incoming site edges = 3
+	#Outgoing site edges = 2
+	#Incoming doc edges = 3
+	#Incoming doc edges (totalINdocs) = 3
+	#Outgoing doc edges = 2
+PR[4] = 0.0939171539922491
+	#Docs for site = 1
+	#Incoming site edges = 2
+	#Outgoing site edges = 3
+	#Incoming doc edges = 2
+	#Incoming doc edges (totalINdocs) = 2
+	#Outgoing doc edges = 3
+PR[9] = 0.0767653044827251
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 0
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 0
+PR[6] = 0.0681206692557841
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 2
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 2
+PR[10] = 0.0614854763207569
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 0
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 0
+PR[7] = 0.0589396410637757
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 1
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 1
+PR[8] = 0.0538534623122024
+	#Docs for site = 1
+	#Incoming site edges = 1
+	#Outgoing site edges = 0
+	#Incoming doc edges = 1
+	#Incoming doc edges (totalINdocs) = 1
+	#Outgoing doc edges = 0
+Total #Iterations = 13
+Total #Nodes = 10
+Total #Deadends = 3
+Total #Site Edges = 21
+Total #Doc Edges = 21
+Sum of site ranks = 1
+3. Writing site rank results...
+End of program. Press any key to exit

@@ -1,0 +1,15 @@
+1	sts3://site1/siteid={1b7802c3-b2b1-4058-aaec-6bea422cb588}
+2	http://200000000/asdf/
+3	sts3://site1/siteid={328043f2-d911-4b3d-b1c4-29646af49ad5}
+4	sts4://site1/siteid={4aa0324d-6f8d-4ac0-8df8-a8f752426395}
+5	sts2://5/hhhjjj/kkklll/
+6	sts4://site1/siteid={670f3489-c7d1-43e5-bd5d-21b38f5d6d60}
+7	sts3://site1/siteid={7075ebe4-46cf-46be-8452-60bdf6abf094}
+8	sts3://site1/siteid={1b7802c3-b2b1-4058-aaec-6bea422cb588}
+9	sts3://site1/siteid={328043f2-d911-4b3d-b1c4-29646af49ad5}
+10	sts3://site1/siteid={4aa0324d-6f8d-4ac0-8df8-a8f752426395}
+11	sts3://site1/siteid={1b7802c3-b2b1-4058-aaec-6bea422cb588}
+12	sts3://site1/siteid={1b7802c3-b2b1-4058-aaec-6bea422cb588}
+13	sts3://site1/siteid={328043f2-d911-4b3d-b1c4-29646af49ad5}
+14	sts3://site1/siteid={4aa0324d-6f8d-4ac0-8df8-a8f752426395}
+15	sts2://5/hhhjjj/kkklll/
